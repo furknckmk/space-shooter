@@ -64,6 +64,7 @@
      <Compile Include="Assets\Kodlar\AsteroidHareketi.cs" />
      <Compile Include="Assets\Kodlar\FxKontrol.cs" />
      <Compile Include="Assets\Kodlar\OyunKontrol.cs" />
+     <Compile Include="Assets\Kodlar\PatlamaSil.cs" />
      <Compile Include="Assets\Kodlar\PlayerKontrol.cs" />
      <Compile Include="Assets\Kodlar\Rotasyon.cs" />
      <Compile Include="Assets\Kodlar\Sinirlar.cs" />
