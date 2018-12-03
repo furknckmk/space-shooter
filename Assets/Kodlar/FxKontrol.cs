@@ -12,6 +12,7 @@ public class FxKontrol : MonoBehaviour {
 		fizik.velocity=transform.forward*hiz;
 
 		
+		
 	}
 	
 	
