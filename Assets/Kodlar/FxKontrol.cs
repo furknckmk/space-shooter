@@ -8,8 +8,6 @@ public class FxKontrol : MonoBehaviour {
 	public float hiz;
 	void Start () 
 	{
-
-		
 		fizik=GetComponent<Rigidbody> ();
 		fizik.velocity=transform.forward*hiz;
 	}
